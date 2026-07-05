@@ -32,8 +32,7 @@ ebios-rm-belhome/
 ├── README.md
 ├── .gitignore
 └── docs/
-    ├── Rapport_EBIOS_Belhome.pdf
-    └── Soutenance_EBIOS_Belhome.pptx
+    ├── Soutenance_EBIOS_Belhome.pdf
 ```
 
 ## Méthodologie
